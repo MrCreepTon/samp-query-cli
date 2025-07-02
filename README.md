@@ -1,5 +1,5 @@
-# samp-server-cli
-😍 Lightweight cli to query SAMP servers directly from terminal written in golang!
+# samp-query-cli
+😍 CLI to query SAMP servers directly from terminal written in golang!
 
 👉 Usage: `samp-query [IP:Port] <-r to show rules>`
 
